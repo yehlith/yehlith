@@ -1,5 +1,7 @@
+[![MasterHead](https://i.pinimg.com/564x/1a/a2/d5/1aa2d5dcf28fed0410229c61c3bc4e79.jpg)](https://yehlith.io)
 <h1 align="center">Hi 👋, I'm Nayeli Brito</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
+<img aling="rigth" alt="Coding" width="400" src="https://i.pinimg.com/originals/de/db/d3/dedbd35fd523ad115ef6af9fd1b82a00.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yehlith&label=Profile%20views&color=0e75b6&style=flat" alt="yehlith" /> </p>
 
